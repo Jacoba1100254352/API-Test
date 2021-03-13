@@ -1,0 +1,15 @@
+{
+  "name": "cors-proxy-tutorial",
+  "version": "1.0.0",
+  "description": "Imagine you are developing a web application that uses a [public API](https://github.com/public-apis/public-apis). When you try to make a request to this API from your front end, you may encounter an error like this:",
+  "main": "cors-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
